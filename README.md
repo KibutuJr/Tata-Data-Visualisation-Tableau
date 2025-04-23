@@ -24,7 +24,7 @@ The primary objectives of this project were:
 
 | File/Folder         | Description                                                                 |
 |---------------------|-----------------------------------------------------------------------------|
-| `Tata_Sales_Dashboard.twbx` | Tableau packaged workbook file containing all visualizations and data |
+| `OnlineRetailTableau.twbx` | Tableau packaged workbook file containing all visualizations and data |
 | `README.md`         | Project documentation (this file)                                           |
 
 ---
