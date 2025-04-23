@@ -1,5 +1,5 @@
 
-# Tata Data Visualisation – Tableau Project
+# Tata Data Visualization – Tableau Project
 
 ## 📌 Overview
 
