@@ -1,9 +1,8 @@
-
 # Tata Data Visualization – Tableau Project
 
 ## 📌 Overview
 
-This repository showcases a data analysis and visualization project completed as part of the [Tata Data Visualisation Virtual Experience Program](https://www.theforage.com/simulations/tata/data-visualisation-p5xo) hosted on Forage. The task projects a real-world business scenario, focusing on how a data analyst at Tata might handle, explore, and visualize sales data to uncover actionable insights and drive better decision-making.
+This repository showcases a data analysis and visualization project completed as part of the [Tata Data Visualisation Virtual Experience Program](https://www.theforage.com/simulations/tata/data-visualisation-p5xo) hosted on Forage. The task simulates a real-world business scenario, focusing on how a data analyst at Tata might handle, explore, and visualize sales data to uncover actionable insights and drive better decision-making.
 
 The goal of this project was to turn raw data into valuable visual insights that inform business strategy, support growth opportunities, and highlight areas for improvement within the sales pipeline. Tableau was used as the primary tool for both data cleaning and visualization.
 
@@ -22,10 +21,12 @@ The primary objectives of this project were:
 
 ## 📁 Repository Contents
 
-| File/Folder         | Description                                                                 |
-|---------------------|-----------------------------------------------------------------------------|
-| `OnlineRetailTableau.twbx` | Tableau packaged workbook file containing all visualizations and data |
-| `README.md`         | Project documentation (this file)                                           |
+| File/Folder                                                                 | Description                                                                 |
+|-----------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+| `OnlineRetailTableau.twbx`                                                 | Tableau packaged workbook file containing all visualizations and data      |
+| `Online Retail Data.xlsx`                                                  | Excel dataset used as the raw input for analysis and dashboard creation     |
+| `Data Visualization Tableau Dashboard - Empowering Business for effective insights.pdf` | Exported PDF of the final Tableau dashboard for quick reference or sharing |
+| `README.md`                                                                | Project documentation (this file)                                           |
 
 ---
 
@@ -103,9 +104,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you found this project useful, consider:
 
-- Starring ⭐ the repository
-- Forking 🍴 and contributing
-- Sharing 🔁 with fellow data enthusiasts
+- Starring ⭐ the repository  
+- Forking 🍴 and contributing  
+- Sharing 🔁 with fellow data enthusiasts  
 
 ---
 
